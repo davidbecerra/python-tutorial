@@ -15,4 +15,4 @@ Or, [download here](https://github.com/davidbecerra/python-tutorial/archive/mast
 * Python 2.7+ (possible Python 3 but no guarantees)
 * NumPy and matplotlib
 
-An easy way to meet the requirements is to install the Anaconda Python distribution (see [Anaconda download](https://www.continuum.io/downloads)
+An easy way to meet the requirements is to install the Anaconda Python distribution (see [Anaconda download](https://www.continuum.io/downloads))
